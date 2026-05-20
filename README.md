@@ -24,37 +24,17 @@
   </code>
 </pre>
 
----
 
-## `>` ABOUT_ME.EXE
-
-```bash
-$ whoami
-> deivdf | Digital Architect | Code Artisan | Synthwave Enthusiast
-
-$ cat /etc/profile
-> OS: Human v2.0 (Carbon-based)
-> Kernel: Curiosity-6.9
-> Shell: zsh with neon extensions
-> Resolution: 1920x1080 @ 60Hz CRT
-> Uptime: ∞ cycles and counting
-
-$ echo $PHILOSOPHY
-> "The future was supposed to have flying cars and neon cities."
-> "So I build them in code instead."
-```
-
----
 
 ## `>` SYSTEM_MODULES
 
 | Component | Loadout |
 |-----------|---------|
-| **LANGUAGES** | `JavaScript` `TypeScript` `Python` `Rust` `Go` `Lua` |
+| **LANGUAGES** | `JavaScript` `TypeScript` `Python` `Java` |
 | **FRONTEND** | `React` `Vue` `Svelte` `Three.js` `WebGL` |
 | **BACKEND** | `Node.js` `FastAPI` `Actix` `Gin` `Express` |
 | **DATABASE** | `PostgreSQL` `Redis` `MongoDB` `SQLite` |
-| **INFRA** | `Docker` `K8s` `Terraform` `AWS` `Cloudflare` |
+| **INFRA** | `Docker` `GCP` `AWS` `Cloudflare` |
 | **TOOLS** | `Neovim` `Git` `tmux` `fzf` `ripgrep` |
 
 ---
@@ -77,35 +57,8 @@ $ echo $PHILOSOPHY
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deivdf&theme=neon-dark&color=00f0ff&bg_color=0d0221&line=ff00ff&point=ff71ce&area=true&hide_border=true" alt="Activity"/>
 </p>
 
----
 
-## `>` TOP_PROJECTS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deivdf&repo=project-alpha&bg_color=0d0221&border_color=00f0ff&title_color=ff00ff&icon_color=00f0ff&text_color=ffffff&show_owner=true" alt="Project 1"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deivdf&repo=project-beta&bg_color=0d0221&border_color=00f0ff&title_color=ff00ff&icon_color=00f0ff&text_color=ffffff&show_owner=true" alt="Project 2"/>
-</p>
-
----
-
-## `>` OPEN_CHANNELS
-
-<p align="center">
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/%5BEMAIL%5D-TRANSMISSION-ff00ff?style=for-the-badge&logo=mail.ru&logoColor=00f0ff&labelColor=0d0221" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/deivdf">
-    <img src="https://img.shields.io/badge/%5BTWITTER%5D-SIGNAL-00f0ff?style=for-the-badge&logo=twitter&logoColor=ff00ff&labelColor=0d0221" alt="Twitter"/>
-  </a>
-  <a href="https://discord.gg/yourserver">
-    <img src="https://img.shields.io/badge/%5BDISCORD%5D-FREQUENCY-ff71ce?style=for-the-badge&logo=discord&logoColor=0d0221&labelColor=0d0221" alt="Discord"/>
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/%5BWEBSITE%5D-PORTAL-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=ff00ff&labelColor=0d0221" alt="Website"/>
-  </a>
-</p>
-
----
 
 <pre align="center">
   <code>

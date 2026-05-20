@@ -1,115 +1,127 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=600&height=60&lines=PH'NGLUI+MGLWNAFH;KUTULU+R'LYEH+WGAH+NAGL+FHTAGN" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d0221,30:0f0820,60:1a0a2e,100:0d0221&text=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+deivdf+%E2%96%91%E2%96%92%E2%96%93%E2%96%88&fontColor=00f0ff&fontSize=45&animation=fadeIn&fontAlignY=40&desc=SYSTEMS%20ONLINE%20%7C%20EST.%20198X&descAlignY=60&descColor=ff00ff&descSize=16" alt="Header"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a0a2e,50:16213e,100:0f3460&text=KUTULU&fontColor=00FF41&fontSize=50&animation=fadeIn&fontAlignY=50&desc=AWAKENING%20THE%20ANCIENT%20CODE&descAlignY=65&descSize=18&descColor=00FF41" alt="Header"/>
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/STATUS-☑_AWAKENED-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=1a0a2e" alt="Status"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/REALM-DIMENSIONAL-8B00FF?style=for-the-badge&logo=cloudflare&logoColor=8B00FF&labelColor=1a0a2e" alt="Realm"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/POWER-ELDRITCH-FF0041?style=for-the-badge&logo=opentelemetry&logoColor=FF0041&labelColor=1a0a2e" alt="Power"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&duration=2000&pause=800&color=00f0ff&center=true&vCenter=true&repeat=false&width=500&height=40&lines=INITIALIZING+NEURAL+LINK...;ACCESS+GRANTED;WELCOME+TO+THE+GRID" alt="Typing"/>
 </p>
 
 ---
 
-## 🌑 WHO AM I?
+<pre align="center">
+  <code>
+┌──────────────────────────────────────────────────────────┐
+│  ██████╗ ███████╗██╗     ███████╗ ██████╗████████╗██████╗ │
+│  ██╔═══╝ ██╔════╝██║     ██╔════╝██╔════╝╚══██╔══╝╚════██╗│
+│  ███████╗ █████╗  ██║     █████╗  ██║        ██║    █████╔╝│
+│  ╚════██║ ██╔══╝  ██║     ██╔══╝  ██║        ██║   ██╔═══╝ │
+│  ███████║███████╗███████╗███████╗╚██████╗     ██║   ███████╗│
+│  ╚══════╝╚══════╝╚══════╝╚══════╝ ╚═════╝     ╚═╝   ╚══════╝│
+│                                                          │
+│         [ TERMINAL v3.1.7 // BUILD 1987.12.04 ]          │
+│         [ STATUS: ALL SYSTEMS NOMINAL ]                   │
+└──────────────────────────────────────────────────────────┘
+  </code>
+</pre>
 
+---
+
+## `>` ABOUT_ME.EXE
+
+```bash
+$ whoami
+> deivdf | Digital Architect | Code Artisan | Synthwave Enthusiast
+
+$ cat /etc/profile
+> OS: Human v2.0 (Carbon-based)
+> Kernel: Curiosity-6.9
+> Shell: zsh with neon extensions
+> Resolution: 1920x1080 @ 60Hz CRT
+> Uptime: ∞ cycles and counting
+
+$ echo $PHILOSOPHY
+> "The future was supposed to have flying cars and neon cities."
+> "So I build them in code instead."
 ```
-┌─────────────────────────────────────────────────────────┐
-│  > INITIATING SEANCE PROTOCOL...                        │
-│  > CONNECTING TO ANCIENT MAINFRAME...                   │
-│  > ENTITY IDENTIFIED: deivdf                            │
-│  > CLASS: DIGITAL SORCERER / CODE WARLOCK               │
-│  > ORIGIN: BEYOND THE VEIL OF REALITY                   │
-│  > MISSION: HARNESS CHAOS THROUGH CODE                  │
-└─────────────────────────────────────────────────────────┘
-```
-
-> *"In the shadows of cyberspace, where ancient algorithms meet forbidden knowledge, I weave spells in binary and summon demons through APIs."*
 
 ---
 
-## 🔮 POWERS & ABILITIES
+## `>` SYSTEM_MODULES
 
-<p align="center">
-  <img src="https://go-skill-badge.vercel.app/api/badge?name=JavaScript&color=FFD700&bg=1a0a2e" alt="JS"/>
-  <img src="https://go-skill-badge.vercel.app/api/badge?name=Python&color=00FF41&bg=1a0a2e" alt="Python"/>
-  <img src="https://go-skill-badge.vercel.app/api/badge?name=Rust&color=FF0041&bg=1a0a2e" alt="Rust"/>
-  <img src="https://go-skill-badge.vercel.app/api/badge?name=Go&color=8B00FF&bg=1a0a2e" alt="Go"/>
-</p>
-
-### ⚔️ ARSENAL
-
-| Category | Technologies |
-|----------|-------------|
-| **Frontend** | React, Vue, Svelte, Three.js |
-| **Backend** | Node.js, FastAPI, Actix, Gin |
-| **Database** | PostgreSQL, Redis, MongoDB |
-| **DevOps** | Docker, K8s, Terraform, CI/CD |
-| **Dark Arts** | AI/ML, Blockchain, WebAssembly |
+| Component | Loadout |
+|-----------|---------|
+| **LANGUAGES** | `JavaScript` `TypeScript` `Python` `Rust` `Go` `Lua` |
+| **FRONTEND** | `React` `Vue` `Svelte` `Three.js` `WebGL` |
+| **BACKEND** | `Node.js` `FastAPI` `Actix` `Gin` `Express` |
+| **DATABASE** | `PostgreSQL` `Redis` `MongoDB` `SQLite` |
+| **INFRA** | `Docker` `K8s` `Terraform` `AWS` `Cloudflare` |
+| **TOOLS** | `Neovim` `Git` `tmux` `fzf` `ripgrep` |
 
 ---
 
-## 📊 RITUAL STATISTICS
+## `>` PERFORMANCE_METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deivdf&show_icons=true&theme=radical&bg_color=1a0a2e&border_color=00FF41&title_color=8B00FF&icon_color=FF0041&text_color=00FF41&hide_border=true" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deivdf&show_icons=true&theme=dark&bg_color=0d0221&border_color=00f0ff&title_color=ff00ff&icon_color=00f0ff&text_color=ffffff&hide_border=true&hide=stars" alt="Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deivdf&theme=radical&background=1a0a2e&border=00FF41&ring=8B00FF&fire=FF0041&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=8B00FF&sideLabels=00FF41&dates=00FF41&hide_border=true" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deivdf&theme=dark&background=0d0221&border=00f0ff&ring=ff00ff&fire=00f0ff&currStreakNum=ff00ff&sideNums=00f0ff&currStreakLabel=ff00ff&sideLabels=00f0ff&dates=ffffff&hide_border=true" alt="Streak"/>
 </p>
 
 ---
 
-## 🌀 ACTIVE RITUALS
+## `>` ACTIVITY_TRACE
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deivdf&theme=react-dark&color=00FF41&bg_color=1a0a2e&line=8B00FF&point=FF0041&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deivdf&theme=neon-dark&color=00f0ff&bg_color=0d0221&line=ff00ff&point=ff71ce&area=true&hide_border=true" alt="Activity"/>
 </p>
 
 ---
 
-## 📜 GRIMOIRE (TOP PROJECTS)
+## `>` TOP_PROJECTS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deivdf&repo=ritual-engine&bg_color=1a0a2e&border_color=00FF41&title_color=8B00FF&icon_color=FF0041&text_color=00FF41&show_owner=true" alt="Project 1"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deivdf&repo=eldritch-api&bg_color=1a0a2e&border_color=00FF41&title_color=8B00FF&icon_color=FF0041&text_color=00FF41&show_owner=true" alt="Project 2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deivdf&repo=project-alpha&bg_color=0d0221&border_color=00f0ff&title_color=ff00ff&icon_color=00f0ff&text_color=ffffff&show_owner=true" alt="Project 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deivdf&repo=project-beta&bg_color=0d0221&border_color=00f0ff&title_color=ff00ff&icon_color=00f0ff&text_color=ffffff&show_owner=true" alt="Project 2"/>
 </p>
 
 ---
 
-## 🕯️ CONTACT ME
+## `>` OPEN_CHANNELS
 
 <p align="center">
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/📧_SUMMON_ME-EMAIL-8B00FF?style=for-the-badge&labelColor=1a0a2e" alt="Email"/>
+    <img src="https://img.shields.io/badge/%5BEMAIL%5D-TRANSMISSION-ff00ff?style=for-the-badge&logo=mail.ru&logoColor=00f0ff&labelColor=0d0221" alt="Email"/>
   </a>
   <a href="https://twitter.com/deivdf">
-    <img src="https://img.shields.io/badge/🐦_FOLLOW_TWITTER-00FF41?style=for-the-badge&labelColor=1a0a2e" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/%5BTWITTER%5D-SIGNAL-00f0ff?style=for-the-badge&logo=twitter&logoColor=ff00ff&labelColor=0d0221" alt="Twitter"/>
   </a>
   <a href="https://discord.gg/yourserver">
-    <img src="https://img.shields.io/badge/🎮_JOIN_REALM-DISCORD-FF0041?style=for-the-badge&labelColor=1a0a2e" alt="Discord"/>
+    <img src="https://img.shields.io/badge/%5BDISCORD%5D-FREQUENCY-ff71ce?style=for-the-badge&logo=discord&logoColor=0d0221&labelColor=0d0221" alt="Discord"/>
   </a>
   <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/🌐_ENTER_PORTAL-WEBSITE-8B00FF?style=for-the-badge&labelColor=1a0a2e" alt="Website"/>
+    <img src="https://img.shields.io/badge/%5BWEBSITE%5D-PORTAL-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=ff00ff&labelColor=0d0221" alt="Website"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f3460,50:16213e,100:1a0a2e&text=Iä!_Iä!_Kutulu_fhtagn!&fontColor=00FF41&fontSize=30&animation=fadeIn&fontAlignY=50" alt="Footer"/>
-</p>
+<pre align="center">
+  <code>
+┌──────────────────────────────────────────────────────────┐
+│  ░▒▓█ END OF LINE █▓▒░                                  │
+│                                                          │
+│  "The sky above the port was the color of television,    │
+│   tuned to a dead channel." — Neuromancer, 1984          │
+│                                                          │
+│  ─────────────────────────────────────────────────────   │
+│  © 198X-2026 deivdf // ALL RIGHTS RESERVED               │
+│  MEMORY: 640K OUGHT TO BE ENOUGH FOR ANYBODY             │
+└──────────────────────────────────────────────────────────┘
+  </code>
+</pre>
 
 <p align="center">
-  <sub>⚠️ WARNING: Viewing this profile may cause vivid dreams of tentacles and recursive algorithms. Proceed at your own risk. ⚠️</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0d0221,50:1a0a2e,100:0d0221&text=%E2%96%88%E2%96%93%E2%96%92+EOF+%E2%96%92%E2%96%93%E2%96%88&fontColor=ff00ff&fontSize=20&animation=fadeIn&fontAlignY=50" alt="Footer"/>
 </p>

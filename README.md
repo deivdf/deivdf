@@ -42,10 +42,6 @@
 ## `>` PERFORMANCE_METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deivdf&show_icons=true&theme=dark&bg_color=0d0221&border_color=00f0ff&title_color=ff00ff&icon_color=00f0ff&text_color=ffffff&hide_border=true&hide=stars" alt="Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deivdf&theme=dark&background=0d0221&border=00f0ff&ring=ff00ff&fire=00f0ff&currStreakNum=ff00ff&sideNums=00f0ff&currStreakLabel=ff00ff&sideLabels=00f0ff&dates=ffffff&hide_border=true" alt="Streak"/>
 </p>
 
